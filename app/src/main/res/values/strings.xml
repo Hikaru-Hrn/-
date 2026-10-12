@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Поиск Авиабилетов</string>
+    
+    <string-array name="cities">
+        <item>Иркутск</item>
+        <item>Волгоград</item>
+        <item>Магнитогорс</item>
+        <item>Чита</item>
+        <item>Ленинград</item>
+        <item>67</item>
+    </string-array>
+</resources>
